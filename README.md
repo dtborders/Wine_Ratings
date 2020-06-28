@@ -1,5 +1,5 @@
 # Final Lab Report
-### Daniel Borders (dborder1)
+### Daniel Borders (dborder1@jhu.edu)
 
 ## Problem Summary
 I will be analyzing a red wine data set that has 11 features of wine and corresponding reviews of the wine by critics. The goal is to predict the critics score from the acidity, citric acid, sugar, etc. Becoming a professional wine taster can take years of education, so if we successfully create a model to accurately rate wine from machine producible data, the cost of generating ratings would drastically decrease. [Data set](https://archive.ics.uci.edu/ml/datasets/wine+quality)
